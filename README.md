@@ -24,22 +24,6 @@ This project was created to practice core React concepts such as component-based
 
 ---
 
-## Running the project locally
-
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd secret_word
-npm install
-npm run dev
-```
-
-The application will be available at:
-
-```
-http://localhost:5173
-```
-
-
 ## Notes
 
 Personal project created for learning and practice purposes.
